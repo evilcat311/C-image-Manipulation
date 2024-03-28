@@ -44,7 +44,7 @@ int main(){
           fputc('0',txt);
         }
       }
-      // fprintf(txt,"\t");
+     
     };
 
   }
